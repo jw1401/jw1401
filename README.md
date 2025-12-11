@@ -1,3 +1,14 @@
-- 👋 Hi, I’m John
-- 👀 I’m interested in AI, ML, Reinforcement Learning, Python, Pytorch, VR, Meta Quest, 3D modeling, Unity 3D, Babylon.js,.....
+👋 Hi, I’m John
+
+👀 I’m interested in 
+
+- AI and Machine Learning,
+- Reinforcement Learning,
+- Python,
+- Pytorch,
+- Virtual Reality,
+- Meta Quest,
+- 3D modeling,
+- Babylon.js,
+- .....
 
