@@ -4,11 +4,8 @@
 
 - AI and Machine Learning,
 - Reinforcement Learning,
-- Python,
-- Pytorch,
+- Python, Pytorch,
 - Virtual Reality,
-- Meta Quest,
-- 3D modeling,
 - Babylon.js,
-- .....
+- ...
 
