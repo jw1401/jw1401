@@ -1,11 +1,3 @@
-👋 Hi, I’m John
-
-👀 I’m interested in 
-
-- AI and Machine Learning,
-- Reinforcement Learning,
-- Python, Pytorch,
-- Virtual Reality,
-- Babylon.js,
-- ...
+👋 Hi, I’m Johannes
+Passionate about AI, ML, Reinforcement Learning, Python/PyTorch, VR, Babylon.js — and building clean, intelligent systems.
 
