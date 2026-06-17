@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Johannes
 
-**Lead Engineer** | **PhD Mechanical Engineering** | **Munich 🇩🇪**
+**Lead Engineer** | **PhD Mechanical Engineering** | **Munich**
 
 I research the intersection of mechanical design and AI, focusing on reinforcement learning and autonomous agents.
 
@@ -15,10 +15,6 @@ I research the intersection of mechanical design and AI, focusing on reinforceme
 
 ## 🏃 Interests
 - Tech, Running, Research
-
-## 📫 Connect
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
